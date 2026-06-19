@@ -183,8 +183,3 @@ public class Huffman {
         buildCodes(node.right, code + "1", codes);
     }
 }
-
-
-
-
-
